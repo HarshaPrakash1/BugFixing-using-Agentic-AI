@@ -6,7 +6,7 @@
 
 ### Setup
 
-Both systems used `gemini-3.5-flash-lite` with Daytona sandboxes. I ran each system once for the scored comparison; I did not run the second-run cell because of the daily Gemini quota. I did not change the bundle's prompts, models or settings.
+Both systems used `gemini-3.5-flash-lite` with Daytona sandboxes. I ran each system once for the scored comparison; I ran each system once for the scored comparison. I started the notebook’s second-run cell but stopped it partway because of the daily Gemini quota, so it produced no results and is not part of the comparison.
  
 Outside the scored runs, I also ran the team's pieces individually while building them in notebooks 01 and 02. I refer to two of those runs below because they show how much the results vary between runs.
 
